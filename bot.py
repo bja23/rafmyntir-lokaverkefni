@@ -73,4 +73,5 @@ while(igangi):
     time.sleep(60)
 
 
+
 print("Slökkt")
